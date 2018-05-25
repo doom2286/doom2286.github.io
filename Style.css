@@ -4,9 +4,10 @@ body {
 }
 .heading {
   text-decoration: underline;
-  height: 500px;
+  margin-bottom: 50px;
 }
 p {
   text-size: 50px;
+  margine-top: 50px;
 }
   
