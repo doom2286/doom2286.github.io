@@ -1,8 +1,10 @@
 body {
   text-align: center;
+  background-color: yellow;
 }
 .heading {
   text-decoration: underline;
+  height: 15px;
   margin-bottom: 50px;
   background-color: teal;
 }
