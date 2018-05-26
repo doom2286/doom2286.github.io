@@ -12,16 +12,11 @@
   min-width: 200px; 
   padding: 0 10px;
 
-.header .container {
+.main-heading .container {
   position: relative;
   top: 200px;
 }
   
-body {
-  text-align: center;
-  background-color: yellow;
-  }
-
 p {
   text-size: 50px;
   margine-top: 50px;
