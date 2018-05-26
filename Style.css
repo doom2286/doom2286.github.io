@@ -11,11 +11,17 @@
   margin: 0 auto;
   min-width: 200px; 
   padding: 0 10px;
+  }
 
-.main-heading .container {
+.main-heading{
+  position: relative;
+  top: 200px:
+  }
+  
+.container {
   position: relative;
   top: 200px;
-}
+  }
   
 p {
   text-size: 50px;
