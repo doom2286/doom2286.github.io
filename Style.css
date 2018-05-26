@@ -17,6 +17,8 @@ html, body {
   padding: 0 10px;
   }
 
+.body {
+  visibility: 
   .main-heading .container {
   position: relative;
   top: 200px;
@@ -30,5 +32,9 @@ p {
 
 #heading {
   text-decoration: underline;
+  }
+
+.nav1 {
+  float: right;
   }
   
