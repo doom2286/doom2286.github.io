@@ -1,17 +1,24 @@
-body {
-  text-align: center;
-  background-color: yellow;
-}
-.heading {
+.main-heading {
   text-decoration: underline;
   margin-bottom: 50px;
   background-color: teal;
   background-size: cover;
   height: 500px;
-}
+  text-align: center;
+  }
+
+body {
+  text-align: center;
+  background-color: yellow;
+  }
+
 p {
   text-size: 50px;
   margine-top: 50px;
   background-color: yellow;
-}
+  }
+
+#heading {
+  text-decoration: underline;
+  }
   
