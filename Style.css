@@ -9,7 +9,7 @@
 
 .container {
   margin: 0 auto;
-  max-width: 940px; 
+  min-width: 200px; 
   padding: 0 10px;
 
 .header .container {
