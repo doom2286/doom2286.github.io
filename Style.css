@@ -17,12 +17,7 @@ html, body {
   padding: 0 10px;
   }
 
-.main-heading{
-  position: relative;
-  top: 200px:
-  }
-  
-.container {
+  .main-heading .container {
   position: relative;
   top: 200px;
   }
