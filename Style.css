@@ -6,6 +6,7 @@ body {
   text-decoration: underline;
   margin-bottom: 50px;
   background-color: teal;
+  background-size: cover;
 }
 p {
   text-size: 50px;
