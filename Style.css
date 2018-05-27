@@ -38,7 +38,7 @@ html, body {
   width: 200px;
   border: 2px solid blue;
   display: inline-block;
-  margine: 30px;
+  margin: 30px;
   }
 #navigationp {
   position: relative;
