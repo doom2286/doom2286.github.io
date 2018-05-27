@@ -39,4 +39,5 @@ html, body {
 #navigationp {
   position: relative;
   text-align: center;
+  margin: 10px auto;
 }
