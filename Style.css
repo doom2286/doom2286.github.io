@@ -36,19 +36,15 @@ html, body {
 .nbutton {
     height: 200px;
     width: 200px;
-    border: 2px solid blue;
     display: inline-block;
     margin: 30px;
-    border-radius: 10px;
-    opacity: .50;
+    opacity: .75;
+    overflow: hidden;
+    
 }
 
 #navigationp {
     position: relative;
     text-align: center;
     background-color: lightblue;
-}
-
-.nbutton, p {
-    margin-top: 90
 }
