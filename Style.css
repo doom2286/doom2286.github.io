@@ -47,4 +47,15 @@ html, body {
     position: relative;
     text-align: center;
     background-color: lightblue;
+    margin-bottom: 50px;
 }
+
+.footer {
+    background-color: cde2e9;
+    height: 61px;
+}
+
+.footer, h3 {
+    padding-top: 20px;
+}
+    
