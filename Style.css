@@ -1,65 +1,42 @@
-html, body {
-    padding: 0;
-    margin: 0;
-    background-color: lightblue;
-    height: 100%;
-}
-
-.main-heading {
-    text-decoration: underline;
-    margin-bottom: 0;
-    background-color: teal;
-    background-size: cover;
-    height: 400px;
-    text-align: center;
-}
-
-.container {
-    margin: 0 auto;
-    min-width: 200px;
-    padding: 0 10px;
-}
-
-.main-heading .container {
-    position: relative;
-    top: 200px;
-}
-
-#heading {
-    text-decoration: underline;
-}
-
-.nbutton:hover {
-    background-color: #004E89;
-    border-color: #004E89;
-    border-radius: 20px;
-}
-
-.nbutton {
-    height: 200px;
-    width: 200px;
-    display: inline-block;
-    margin: 30px;
-    opacity: .75;
-    overflow: hidden;
+html{
+  margin:0px;
+  padding:0px;
+  }
+    body{
+        background-image: url("https://s3.us-east-2.amazonaws.com/landonhalouska.com/photo+host/light-blue-cloth-texture-background-vector-2264130+(1)+aadasda+s.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    }
     
-}
-
-#navigationp {
-    position: relative;
-    text-align: center;
-    background-color: lightblue;
-    margin-bottom: 50px;
-}
-#footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background-color: cde2e9;
-    height: 61px;
-}
-
- 
-.contact {
-    display: inline-block;
-}
+    #resback {
+        background-color: rgba(98, 108, 135, .5);
+        margin:auto;
+        display:inline-block;
+        height:1080px;
+        width:100%;
+  		display:inline-block;
+  		text-align:center;
+  		
+  }
+  
+    ul {
+       text-align:left;
+       margin-left:40%;
+       padding:0;
+    }
+  #nameb {
+  background-color: rgb(48, 104, 53);
+  height:100px;
+  margin:0 auto;
+  text-align:center;
+  
+  }
+  
+  #nameb h1 {
+  font-size:70px;
+  font-weight:400;
+  }
+  #resback .workhis {
+    
+  }
