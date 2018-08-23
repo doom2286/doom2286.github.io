@@ -11,7 +11,7 @@ Font-family:arial;
     }
     
     #resback {
-        background-color: rgba(98, 108, 135, .5);
+        background-color: rgba(250, 250, 250, 0.5);
         margin:auto;
         display:inline-block;
         height:1080px;
@@ -23,7 +23,7 @@ Font-family:arial;
   
     ul {
        text-align:left;
-       margin-left:40%;
+       margin-left:30%;
        padding:0;
     }
   #nameb {
