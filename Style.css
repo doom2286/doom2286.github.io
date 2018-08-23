@@ -1,9 +1,10 @@
 html{
   margin:0px;
   padding:0px;
+Font-family:arial;
   }
     body{
-        background-image: url("https://s3.us-east-2.amazonaws.com/landonhalouska.com/photo+host/light-blue-cloth-texture-background-vector-2264130+(1)+aadasda+s.jpg");
+        //background-image: url("https://s3.us-east-2.amazonaws.com/landonhalouska.com/photo+host/light-blue-cloth-texture-background-vector-2264130+(1)+aadasda+s.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         
